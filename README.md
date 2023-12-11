@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pramanawardance
 - 👀 I’m interested in Kpop and Progamming
 - 🌱 I’m currently learning HTML CSS JavaScript
-- 💞️ I’m looking to collaborate on JYP
 - 📫 How to reach me 
 
 <!---
